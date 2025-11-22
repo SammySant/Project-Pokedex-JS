@@ -16,3 +16,5 @@ It's easy, just download an image from browser and paste at the generator.
 
 To start the server and test all the operations, I've used the Live Server.
 It's an extension from VSCode Studio to run this html.
+
+To anyone who want to test it, check : https://sammysant.github.io/Project-Pokedex-JS/
